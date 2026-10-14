@@ -1,0 +1,15 @@
+{
+  "id": "bhanupriyacn/customer-segmentation-kmeans-dbscan-pca",
+  "title": "Customer Segmentation KMeans DBSCAN PCA",
+  "code_file": "customer_segmentation_kmeans_dbscan_pca.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_internet": false,
+  "dataset_sources": [
+    "vjchoudhary7/customer-segmentation-tutorial-in-python"
+  ],
+  "competition_sources": [],
+  "kernel_sources": []
+}

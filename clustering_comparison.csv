@@ -1,0 +1,4 @@
+algorithm,clusters,evaluated_customers,noise_customers,coverage_pct,silhouette
+K-Means (all customers),4,200,0.0,100.0,0.4039582785148566
+K-Means (DBSCAN-retained subset),4,140,,70.0,0.45551721720893346
+DBSCAN (noise excluded),6,140,60.0,70.0,0.481714917862304

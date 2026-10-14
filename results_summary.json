@@ -1,0 +1,21 @@
+{
+  "dataset": "vjchoudhary7/customer-segmentation-tutorial-in-python",
+  "customers": 200,
+  "features": [
+    "Age",
+    "Annual Income (k$)",
+    "Spending Score (1-100)"
+  ],
+  "kmeans_k": 4,
+  "kmeans_silhouette_all": 0.4039582785148566,
+  "kmeans_silhouette_dbscan_subset": 0.45551721720893346,
+  "dbscan_eps": 0.5,
+  "dbscan_min_samples": 5,
+  "dbscan_clusters": 6,
+  "dbscan_noise_customers": 60,
+  "dbscan_coverage_pct": 70.0,
+  "dbscan_silhouette_assigned": 0.481714917862304,
+  "ari_assigned": 0.7317538706251281,
+  "ari_all": 0.4430599132318863,
+  "pca_variance_retained_pct": 77.57454566976747
+}
